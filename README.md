@@ -1,2 +1,2 @@
 # vehicleProject
-# Project that concerns a 4 wheel robot.
+# Project that concerns a robot with 4 wheels.
